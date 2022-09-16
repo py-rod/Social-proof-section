@@ -18,6 +18,11 @@
     font-family: 'League Spartan', sans-serif;
 }
 
+body{
+    max-width: 1600px;
+    margin:  0 auto;
+}
+
 
 .card{
     width: 100%;
